@@ -1,3 +1,3 @@
 module.exports = function (bundler) {
-    bundler.addAssetType('md', require.resolve('./ehtml.js'));
+    bundler.addAssetType('ehtml', require.resolve('./ehtml.js'));
 };

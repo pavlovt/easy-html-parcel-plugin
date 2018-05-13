@@ -10,3 +10,7 @@ yarn add --dev parcel-plugin-easy-html
 import tpl from './index.ehtml';
 document.body.innerHTML = tpl;
 ```
+
+## License
+
+MIT (http://www.opensource.org/licenses/mit-license.php)
